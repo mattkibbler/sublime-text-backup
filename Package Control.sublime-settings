@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Quick File Creator",
+		"Sass",
+		"SideBarEnhancements",
+		"SilverStripe"
+	]
+}
