@@ -5,14 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Color Highlighter",
 		"Emmet",
 		"Laravel Blade Highlighter",
+		"Local History",
 		"Material Theme",
 		"ProjectManager",
-		"Quick File Creator",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
-		"SilverStripe"
+		"SilverStripe",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php"
 	]
 }
